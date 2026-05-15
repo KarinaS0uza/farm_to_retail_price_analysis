@@ -13,4 +13,4 @@ This project explore how meat values change across the supply chain from farm to
 - Streamlit
 
 ## Live App link
-http://192.168.12.235:8501
+[http://192.168.12.235:8501](https://farm-to-retail-price-analysis1.onrender.com)
